@@ -73,12 +73,6 @@
   },
   {
     "marca": "PEMEX",
-    "direccion": "Carretera Cayaco-Puerto Marques No. 208, Col. Ejidos Cayaco O Coacoyular",
-    "lat": 16.83136,
-    "lng": -99.81325
-  },
-  {
-    "marca": "PEMEX",
     "direccion": "Carretera Fed.Acapulco-Pinotepanacional Km. 6 #217, Col. Cayaco",
     "lat": 16.852047,
     "lng": -99.79984
@@ -214,12 +208,6 @@
     "direccion": "Km.7 Libramiento Sicartsa Lazaro Cardenas la Orilla, Col. Condesa",
     "lat": 17.98518,
     "lng": -102.23347
-  },
-  {
-    "marca": "ORSAN",
-    "direccion": "Ave. Rodolfo Ruiz Cortines 1418,Atasta, VILLAHERMOSA, Tabasco.",
-    "lat": 17.989582,
-    "lng": -92.94956
   },
   {
     "marca": "G500",
@@ -486,12 +474,6 @@
     "lng": -99.179085
   },
   {
-    "marca": "PEMEX",
-    "direccion": "Autop.Cordoba Veracruz Km.0+100 Cruce Carr. Fed., Col. .",
-    "lat": 18.860771,
-    "lng": -96.87331
-  },
-  {
     "marca": "BP",
     "direccion": "Carretera Cordoba-Potrero No.29 Km2+300, Amatlan De Los Reyes, Veracruz, México.",
     "lat": 18.873177,
@@ -744,12 +726,6 @@
     "lng": -98.44349
   },
   {
-    "marca": "SHELL",
-    "direccion": "TIZMIN HEROES DE PADIERNA, TLAL 121",
-    "lat": 19.289719,
-    "lng": -99.21712
-  },
-  {
     "marca": "PEMEX",
     "direccion": "Av. Tlahuac No. 7081, Col. San Francisco Tlaltenco",
     "lat": 19.289848,
@@ -828,12 +804,6 @@
     "lng": -98.52191
   },
   {
-    "marca": "PEMEX",
-    "direccion": "Km. 1+400 Carretera Pareo-El Limon, Col. S/C",
-    "lat": 19.33262,
-    "lng": -102.4644
-  },
-  {
     "marca": "TOTAL",
     "direccion": "Azcapotzaltongo, Av. Isidro Fabela, Santa Cruz, 50030 Calixtlahuaca, Méx.",
     "lat": 19.337719,
@@ -880,12 +850,6 @@
     "direccion": "Carr. Toluca-Zitacuaro Km 17.5, Col. Paraje Yukon. Almoloya de Juarez, Estado de México",
     "lat": 19.358717,
     "lng": -99.80317
-  },
-  {
-    "marca": "SHELL",
-    "direccion": "SAGREDO 265",
-    "lat": 19.360968,
-    "lng": -99.18894
   },
   {
     "marca": "PEMEX",
@@ -1006,12 +970,6 @@
     "direccion": "Km 1 Carrt. Uruapan-Patzcuaro Margen Izquierdo, Col. El Periodista",
     "lat": 19.42607,
     "lng": -102.04079
-  },
-  {
-    "marca": "G500",
-    "direccion": "Rio de la Plata 2, Cuauhtémoc, Cuauhtémoc, Ciudad de México, 6500",
-    "lat": 19.427912,
-    "lng": -99.17463
   },
   {
     "marca": "RUTA GASOLINERA",
@@ -1140,12 +1098,6 @@
     "lng": -99.07495
   },
   {
-    "marca": "PEMEX",
-    "direccion": "Carretera  Morelia -- Patzacuaro Km. 37+900, Col. Sc",
-    "lat": 19.53451,
-    "lng": -101.47054
-  },
-  {
     "marca": "G500",
     "direccion": "Autopista Mexico - Queretaro 2598, Valle de los Pinos, Tlalnepantla de Baz, Estado de México, 54040",
     "lat": 19.538456,
@@ -1174,12 +1126,6 @@
     "direccion": "Carretera lecheria Texcoco Km 45, El Carmen, Ecatepec de Morelos, Estado de México, 55020",
     "lat": 19.547516,
     "lng": -98.91351
-  },
-  {
-    "marca": "HIDROSINA",
-    "direccion": "Autopista de cuota Arco Norte Km. 98+345.659 al 98+706.346 del cuerpo de Atlacomulco a San Martín Texmelucan",
-    "lat": 19.55112,
-    "lng": -98.49473
   },
   {
     "marca": "PEMEX",
@@ -1368,12 +1314,6 @@
     "lng": -101.22992
   },
   {
-    "marca": "SHELL",
-    "direccion": "CARRETERA A CUAUTITL 1-82A, MANZANA",
-    "lat": 19.683956,
-    "lng": -99.18574
-  },
-  {
     "marca": "BP",
     "direccion": "Distribuidor Vial Autopista México-Querétaro y Avenida Huehuetoca Fraccionamiento Sur Valle de la Hacienda C.P 54701 Cuautitlan Izcalli, Estado de México, México.",
     "lat": 19.684858,
@@ -1492,12 +1432,6 @@
     "direccion": "Carret. Atlacomulco-El Oro S/N. Lote-1, Mz-13, Col. Zona Industrial Atlacomulco",
     "lat": 19.78295,
     "lng": -99.90294
-  },
-  {
-    "marca": "PEMEX",
-    "direccion": "Blvd. Isidro Fabela Sur No. 600, Col. San Martin",
-    "lat": 19.78615,
-    "lng": -99.86644
   },
   {
     "marca": "LA GAS",
@@ -1644,12 +1578,6 @@
     "lng": -102.336365
   },
   {
-    "marca": "FULLGAS",
-    "direccion": "Calle 10 S/N, esq. Calle 23, Colonia, Tenabo",
-    "lat": 20.03475,
-    "lng": -90.22667
-  },
-  {
     "marca": "TOTAL",
     "direccion": "Libramiento a Palomas km 2 No. 511, Colonia Palma Mocha, El Portezuelo Colonia Palma Mocha, El Portezuelo, 42181 Pachuca de Soto, Hgo.",
     "lat": 20.035868,
@@ -1726,12 +1654,6 @@
     "direccion": "Carretera Puruandiro-Zinaparo Km.21, Col. .",
     "lat": 20.14731,
     "lng": -101.71434
-  },
-  {
-    "marca": "PEMEX",
-    "direccion": "Carretera Zamora-La Barca Km. 27, Col. .",
-    "lat": 20.16992,
-    "lng": -102.38486
   },
   {
     "marca": "PEMEX",
@@ -1876,12 +1798,6 @@
     "direccion": "Carretera  Celaya-Salvatierra Km 8.2 Fracc.Parcela, Col. Sc",
     "lat": 20.435246,
     "lng": -100.79571
-  },
-  {
-    "marca": "SMARTGAS",
-    "direccion": "México Querétaro KM 175. Querétaro, Carretera Federal 45 de Cuota 177, Sauz Alto, 76729 Alto Querétaro, Qro.",
-    "lat": 20.462402,
-    "lng": -100.098885
   },
   {
     "marca": "PEMEX",
@@ -2116,12 +2032,6 @@
     "direccion": "Carretera a San Bernardo, Kopomá, Yucatán",
     "lat": 20.620564,
     "lng": -89.94667
-  },
-  {
-    "marca": "BP",
-    "direccion": "Av. Dr. R. Michel 3029, Col. Alamo Oriente, C.P. 45560, San Pedro Tlaquepaque, Jalisco.",
-    "lat": 20.626877,
-    "lng": -103.32382
   },
   {
     "marca": "OXXO GAS",
@@ -2542,12 +2452,6 @@
     "direccion": "BLVD. EMILIANO ZAPATA NUM. 4 LORENZO MOSQUEDA 36000",
     "lat": 20.958103,
     "lng": -101.60906
-  },
-  {
-    "marca": "LA GAS",
-    "direccion": "Calle 63 No. 302A Fracc. Juan Pablo II entre calle 18 y calle 20 Mérida, Yucatán, C.P. 97246",
-    "lat": 20.95944,
-    "lng": -89.67609
   },
   {
     "marca": "OXXO GAS",
@@ -3168,12 +3072,6 @@
     "lng": -101.02992
   },
   {
-    "marca": "GASORED",
-    "direccion": "Acceso Norte 441, Industrial Mexicana, 78309 San Luis, S.L.P.",
-    "lat": 22.170588,
-    "lng": -100.96194
-  },
-  {
     "marca": "NEXUM",
     "direccion": "Carretera Tuxpan - Tampico Km. 175+600, S/C, Cd. Cuauhtémoc, Ver.",
     "lat": 22.19479,
@@ -3232,12 +3130,6 @@
     "direccion": "Camino Real Num. 1001, Col. Localidad Pedregoso",
     "lat": 22.25938,
     "lng": -101.77282
-  },
-  {
-    "marca": "PEMEX",
-    "direccion": "Av. Universidad entre Calles 9 y 10, Col. .",
-    "lat": 22.266834,
-    "lng": -97.86003
   },
   {
     "marca": "NEXUM",
@@ -3510,12 +3402,6 @@
     "lng": -109.706184
   },
   {
-    "marca": "ORSAN",
-    "direccion": "CARRETERA TRANSPENINSULAR 8600,EL ZACATAL, SAN JOSE DEL CABO, Baja California Sur.",
-    "lat": 23.105965,
-    "lng": -109.7118
-  },
-  {
     "marca": "PEMEX",
     "direccion": "Carr a Matehuala y Calle Tampico, Col. Ninguna",
     "lat": 23.127625,
@@ -3694,12 +3580,6 @@
     "direccion": "Luis Donaldo Colosio S/n, E. Serdan y G. Prieto",
     "lat": 24.13577,
     "lng": -110.33231
-  },
-  {
-    "marca": "REDCO",
-    "direccion": "Melchor Ocampo No. 2490 Esq. Juan D. Cota Col. Vicente Guerrero.",
-    "lat": 24.14342,
-    "lng": -110.29439
   },
   {
     "marca": "HIDROSINA",
@@ -3943,12 +3823,6 @@
   },
   {
     "marca": "PEMEX",
-    "direccion": "Blvd. Isidro Lopez Zertuche No. 1340, Col. Republica Poniente",
-    "lat": 25.43617,
-    "lng": -101.003944
-  },
-  {
-    "marca": "PEMEX",
     "direccion": "Benito Juarez Num. 215, Col. Centro",
     "lat": 25.440447,
     "lng": -101.24782
@@ -4174,12 +4048,6 @@
     "direccion": "Acueducto No. 801 y 803, Col. Santa Isabel",
     "lat": 25.636126,
     "lng": -100.177895
-  },
-  {
-    "marca": "OXXO GAS",
-    "direccion": "Av. San Roque 103 Fracc. América Unida, Cd. Benito Juarez ",
-    "lat": 25.64889,
-    "lng": -100.14361
   },
   {
     "marca": "PEMEX",
@@ -4444,12 +4312,6 @@
     "direccion": "Ave. Rhodesia Del Norte # 501 Esq. Gaspar Castano, Col. Ex Hda. Huinala",
     "lat": 25.730656,
     "lng": -100.16251
-  },
-  {
-    "marca": "OXXO GAS",
-    "direccion": "AZTLAN # 7113 GRANJA SANITARIA 30523",
-    "lat": 25.7375,
-    "lng": -100.35028
   },
   {
     "marca": "OXXO GAS",
@@ -4963,12 +4825,6 @@
   },
   {
     "marca": "PEMEX",
-    "direccion": "Calle 9 entre Canal Revestido y Rodolfo Santa Liz, Col. Ejido Francisco Javier Mina",
-    "lat": 27.463825,
-    "lng": -110.11673
-  },
-  {
-    "marca": "PEMEX",
     "direccion": "Carrt. Fed. # 1000 Ote., Col. S/D",
     "lat": 27.474365,
     "lng": -109.91917
@@ -5008,12 +4864,6 @@
     "direccion": "Carretera transpeninsular km. 137 s/c c.p. 23935, mulege",
     "lat": 27.625551,
     "lng": -113.37496
-  },
-  {
-    "marca": "G500",
-    "direccion": "Agustin Melgar 903, Obrera, Camargo, Chihuahua, 33000",
-    "lat": 27.67736,
-    "lng": -105.17312
   },
   {
     "marca": "PEMEX",
@@ -5197,12 +5047,6 @@
   },
   {
     "marca": "OXXO GAS",
-    "direccion": "Periférico de la Juventud s/n Fracc. Barrancas. Chihuahua, Chih.",
-    "lat": 28.670721,
-    "lng": -106.13293
-  },
-  {
-    "marca": "OXXO GAS",
     "direccion": "Av Tecnológico esq. Pinabete #6514, Col. Parral, Chihuahua, Chih.",
     "lat": 28.676653,
     "lng": -106.102196
@@ -5230,12 +5074,6 @@
     "direccion": "Boulevard Republica No.1729, Col. Fracc. Tecnologico",
     "lat": 28.69528,
     "lng": -100.56273
-  },
-  {
-    "marca": "PEMEX",
-    "direccion": "Av. Homero No. 3101, Col. Cond. Parque Complejo Ind. Chihuahua",
-    "lat": 28.71295,
-    "lng": -106.10502
   },
   {
     "marca": "PEMEX",
@@ -5674,12 +5512,6 @@
     "direccion": "Av Alvaro Obregon & Calle 26, Burócrata, 83450, Colonia Burocrata, Burócrata, 83450 San Luis Río Colorado, Son.",
     "lat": 32.473846,
     "lng": -114.75172
-  },
-  {
-    "marca": "BP",
-    "direccion": "San Luis Río Colorado Obregón y Calle 16 S/N, Ganadera, C.P. 83400 San Luis Río Colorado, Sonora México.",
-    "lat": 32.477978,
-    "lng": -114.76451
   },
   {
     "marca": "GASMART",

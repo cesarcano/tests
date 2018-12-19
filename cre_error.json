@@ -2872,14 +2872,6 @@
     "match_id": 7840
   },
   {
-    "nombre": "ENERGETICOS LAS PAROTAS S.A. DE C.V.",
-    "cre_id": "PL/20920/EXP/ES/2018",
-    "direccion": "BOULEVARD CAYACO - PUERTO MARQUES",
-    "lng": -99.81325,
-    "lat": 16.83136,
-    "match_id": 24079
-  },
-  {
     "nombre": "ESTACION DE SERVICIO CRUZ DORADA S.A DE C.V",
     "cre_id": "PL/13058/EXP/ES/2016",
     "direccion": "Avenida Costera Miguel Aleman S/N Esquina Avenida Las Americas",
@@ -5614,14 +5606,6 @@
     "lng": -94.65438,
     "lat": 17.98845,
     "match_id": 5501
-  },
-  {
-    "nombre": "ESTACIONES DE SERVICIO AUTO S.A. DE C.V.",
-    "cre_id": "PL/1407/EXP/ES/2015",
-    "direccion": "Avenida Adolfo Ruiz Cortines No. 1418",
-    "lng": -92.95144,
-    "lat": 17.98881,
-    "match_id": 2640
   },
   {
     "nombre": "ESTACIONES DE SERVICIO AUTO S.A. DE C.V.",
@@ -9678,14 +9662,6 @@
     "lng": -98.94307,
     "lat": 18.85852,
     "match_id": 13712
-  },
-  {
-    "nombre": "GASOLINERA EL TREBOL S.A. DE C.V.",
-    "cre_id": "PL/9447/EXP/ES/2015",
-    "direccion": "Autop.Cordoba Veracruz Km 0+100 Cruce Carretera Fed.",
-    "lng": -96.87331,
-    "lat": 18.86077,
-    "match_id": 10733
   },
   {
     "nombre": "SUPER GAS DE SAN MIGUELITO S.A DE C.V.",
@@ -16224,14 +16200,6 @@
     "match_id": 2711
   },
   {
-    "nombre": "NACIONAL DE COMBUSTIBLES Y LUBRICANTES S.A. DE C.V",
-    "cre_id": "PL/7851/EXP/ES/2015",
-    "direccion": "Tizmin No. 121",
-    "lng": -99.21712,
-    "lat": 19.28972,
-    "match_id": 8574
-  },
-  {
     "nombre": "OPERADORA LUGOGAS SA DE CV",
     "cre_id": "PL/5815/EXP/ES/2015",
     "direccion": "Avenida Adolfo López Mateos No. 136",
@@ -17128,14 +17096,6 @@
     "match_id": 10672
   },
   {
-    "nombre": "ABEL ZAMORA SEPULVEDA",
-    "cre_id": "PL/3470/EXP/ES/2015",
-    "direccion": "Km 1+400 Carretera Pareo-El Limon",
-    "lng": -102.4644,
-    "lat": 19.33262,
-    "match_id": 6871
-  },
-  {
     "nombre": "Mini Servicio Jet, S.A. de C.V.",
     "cre_id": "PL/659/EXP/ES/2015",
     "direccion": "Avenida Monserrat No. 161",
@@ -17574,14 +17534,6 @@
     "lng": -99.12174,
     "lat": 19.36013,
     "match_id": 2885
-  },
-  {
-    "nombre": "MEGA GASOLINERAS S.A DE C.V",
-    "cre_id": "PL/4126/EXP/ES/2015",
-    "direccion": "Sagredo No. 265",
-    "lng": -99.18894,
-    "lat": 19.36097,
-    "match_id": 5953
   },
   {
     "nombre": "SERVICIO YAGGAR S.A. DE C.V.",
@@ -19206,14 +19158,6 @@
     "lng": -97.79796,
     "lat": 19.42715,
     "match_id": 10023
-  },
-  {
-    "nombre": "SERVICIO RIO DE LA PLATA S.A DE C.V",
-    "cre_id": "PL/6857/EXP/ES/2015",
-    "direccion": "Rio de La Plata No. 2",
-    "lng": -99.17441,
-    "lat": 19.42785,
-    "match_id": 7887
   },
   {
     "nombre": "SERVICIO TECAMACHALCO SA DE CV",
@@ -20880,14 +20824,6 @@
     "match_id": 24171
   },
   {
-    "nombre": "RAFAEL HERRERA BARRIGA",
-    "cre_id": "PL/9779/EXP/ES/2015",
-    "direccion": "Km 38 Mas 000 Carretera Morelia -- Patzcuaro",
-    "lng": -101.4705,
-    "lat": 19.53451,
-    "match_id": 10456
-  },
-  {
     "nombre": "GRUPO GASOLINERO DEL SUR S.A. DE C.V.",
     "cre_id": "PL/1666/EXP/ES/2015",
     "direccion": "Carretera Texcoco - Lechería S/N",
@@ -21126,14 +21062,6 @@
     "lng": -96.94771,
     "lat": 19.54987,
     "match_id": 2662
-  },
-  {
-    "nombre": "OPERADORA DE ESTACIONES DE SERVICIO 20-20, S.A. DE C.V.",
-    "cre_id": "PL/6703/EXP/ES/2015",
-    "direccion": "Autopista Arco Nte C-Sn Martin Texmelucan Atl 98+7",
-    "lng": -98.49376,
-    "lat": 19.55149,
-    "match_id": 8381
   },
   {
     "nombre": "J CRUZ BOJORGES CASTRO",
@@ -23144,14 +23072,6 @@
     "match_id": 24291
   },
   {
-    "nombre": "SERVICIO GASOLINERO DEL CENTRO EPOL, S.A. DE C.V.",
-    "cre_id": "PL/7095/EXP/ES/2015",
-    "direccion": "Carretera Cuautitlán Tepozotlán Lt. 1 82-A",
-    "lng": -99.18574,
-    "lat": 19.68396,
-    "match_id": 7940
-  },
-  {
     "nombre": "Multiservicios Hidalgo, S.A. de C.V.",
     "cre_id": "PL/8385/EXP/ES/2015",
     "direccion": "Adrian Peña Soto No. 1",
@@ -24286,14 +24206,6 @@
     "lng": -99.90294,
     "lat": 19.78295,
     "match_id": 4887
-  },
-  {
-    "nombre": "SERVICIO ATA, S.A. DE C.V.",
-    "cre_id": "PL/2313/EXP/ES/2015",
-    "direccion": "Boulevard Isidro Fabela Sur No. 600",
-    "lng": -99.86644,
-    "lat": 19.78615,
-    "match_id": 3888
   },
   {
     "nombre": "INMOBILIARIA HEMAJO DE ATLACOMULCO, S.A. DE C.V.",
@@ -26456,14 +26368,6 @@
     "match_id": 12553
   },
   {
-    "nombre": "Servicios Ecológicos Muyil S.A. de C.V.",
-    "cre_id": "PL/13137/EXP/ES/2016",
-    "direccion": "Calle 10 Esquina Calle 23 S/N",
-    "lng": -90.22662,
-    "lat": 20.0347,
-    "match_id": 15714
-  },
-  {
     "nombre": "COMBUSTIBLES PALPOALA SA DE CV",
     "cre_id": "PL/9292/EXP/ES/2015",
     "direccion": "Misantla-Martinez de La Torre Km 27",
@@ -27774,14 +27678,6 @@
     "lng": -102.2091,
     "lat": 20.16164,
     "match_id": 8196
-  },
-  {
-    "nombre": "RODRIGO TAMAYO VAZQUEZ",
-    "cre_id": "PL/13616/EXP/ES/2016",
-    "direccion": "Carretera Zamoar - La Barca Km 27",
-    "lng": -102.3849,
-    "lat": 20.16992,
-    "match_id": 20871
   },
   {
     "nombre": "Servicios Ecológicos de Champoton S.A. de C.V.",
@@ -29942,14 +29838,6 @@
     "lng": -100.6296,
     "lat": 20.46037,
     "match_id": 9679
-  },
-  {
-    "nombre": "SERVICIOS LA VIRGEN SA DE CV",
-    "cre_id": "PL/9976/EXP/ES/2015",
-    "direccion": "Aut México Queretaro Tramo Palmillas Qr Km 175.32",
-    "lng": -100.0988,
-    "lat": 20.46232,
-    "match_id": 11386
   },
   {
     "nombre": "SERVICIO PETRO APASEO S.A. DE C.V.",
@@ -33102,14 +32990,6 @@
     "lng": -103.3869,
     "lat": 20.6259,
     "match_id": 21354
-  },
-  {
-    "nombre": "Simba Express SA de CV",
-    "cre_id": "PL/4109/EXP/ES/2015",
-    "direccion": "Avenida Dr. R. Michel No. 3029",
-    "lng": -103.3236,
-    "lat": 20.62737,
-    "match_id": 6864
   },
   {
     "nombre": "COMBUSTIBLES Y SERVICIOS QUINTANA ROO, S.A. DE C.V",
@@ -37814,14 +37694,6 @@
     "lng": -101.4251,
     "lat": 20.95817,
     "match_id": 8590
-  },
-  {
-    "nombre": "Corporativo Gasolinero del Caribe, S.A. de C.V.",
-    "cre_id": "PL/20533/EXP/ES/2017",
-    "direccion": "63 No. 302 y 302 A",
-    "lng": -89.67606,
-    "lat": 20.95949,
-    "match_id": 23212
   },
   {
     "nombre": "EMILIO ALBERTO GAMBOA GARCIA",
@@ -44360,14 +44232,6 @@
     "match_id": 3663
   },
   {
-    "nombre": "SERVICIO ACCESO NORTE SA DE CV",
-    "cre_id": "PL/6913/EXP/ES/2015",
-    "direccion": "Acceso Norte Lt. 3",
-    "lng": -100.9617,
-    "lat": 22.17073,
-    "match_id": 8131
-  },
-  {
     "nombre": "SUPER SERVICIO MORALES SAUCITO, SA DE CV",
     "cre_id": "PL/5528/EXP/ES/2015",
     "direccion": "Avenida Morales Saucito No. 1800",
@@ -44774,14 +44638,6 @@
     "lng": -101.7728,
     "lat": 22.25938,
     "match_id": 13209
-  },
-  {
-    "nombre": "GASOLINERA LAS PALMAS S.A. DE C.V.",
-    "cre_id": "PL/3530/EXP/ES/2015",
-    "direccion": "Avenida Universidad No. 908",
-    "lng": -97.86003,
-    "lat": 22.26683,
-    "match_id": 6835
   },
   {
     "nombre": "JESUS JOSE GONZALEZ MONTAÑEZ",
@@ -46382,14 +46238,6 @@
     "lng": -102.2827,
     "lat": 23.09353,
     "match_id": 24527
-  },
-  {
-    "nombre": "ESTACIONES DE SERVICIO PENINSULARES S.A. DE C.V.",
-    "cre_id": "PL/1981/EXP/ES/2015",
-    "direccion": "Carretera Transpeninsular 8600",
-    "lng": -109.7118,
-    "lat": 23.10597,
-    "match_id": 3284
   },
   {
     "nombre": "COMBURED SA DE CV",
@@ -48630,14 +48478,6 @@
     "lng": -110.319,
     "lat": 24.1369,
     "match_id": 13405
-  },
-  {
-    "nombre": "RALSI , S.A. DE C.V.",
-    "cre_id": "PL/1560/EXP/ES/2015",
-    "direccion": "Melchor Ocampo No. 2490",
-    "lng": -110.2944,
-    "lat": 24.14348,
-    "match_id": 3419
   },
   {
     "nombre": "SUPER SERVICIO MIVASA SA DE CV",
@@ -51224,14 +51064,6 @@
     "match_id": 5718
   },
   {
-    "nombre": "Autorefinados y Energéticos de Saltillo SA de CV",
-    "cre_id": "PL/11344/EXP/ES/2015",
-    "direccion": "Boulevard Isidro López Zertuche No. 1340",
-    "lng": -101.0039,
-    "lat": 25.43617,
-    "match_id": 13541
-  },
-  {
     "nombre": "SERVICIO SIERRA DE ARTEAGA SA DE CV",
     "cre_id": "PL/783/EXP/ES/2015",
     "direccion": "Boulevard Fundadores Km 8",
@@ -53376,14 +53208,6 @@
     "match_id": 5978
   },
   {
-    "nombre": "SERVICIOS GASOLINEROS DE MEXICO, S.A. DE C.V.",
-    "cre_id": "PL/9170/EXP/ES/2015",
-    "direccion": "Avenida San Roque No. 103",
-    "lng": -100.1435,
-    "lat": 25.6489,
-    "match_id": 9974
-  },
-  {
     "nombre": "GASOLINERIA DAFER SA DE CV",
     "cre_id": "PL/5893/EXP/ES/2015",
     "direccion": "Avenida Revolución No. 3401",
@@ -54878,14 +54702,6 @@
     "lng": -109.0138,
     "lat": 25.73669,
     "match_id": 2110
-  },
-  {
-    "nombre": "SERVICIOS GASOLINEROS DE MEXICO, S.A. DE C.V.",
-    "cre_id": "PL/7665/EXP/ES/2015",
-    "direccion": "Avenida Aztlán No. 7113",
-    "lng": -100.3506,
-    "lat": 25.73783,
-    "match_id": 9150
   },
   {
     "nombre": "CARBURANTES ALMAZAN SA DE CV",
@@ -59905,14 +59721,6 @@
   },
   {
     "nombre": "GASOLINERA BORJA, S.A DE C.V.",
-    "cre_id": "PL/8991/EXP/ES/2015",
-    "direccion": "Calle 9 Entre Canal Revestido Y Rodolfo Santa Liz",
-    "lng": -110.1167,
-    "lat": 27.46383,
-    "match_id": 10182
-  },
-  {
-    "nombre": "GASOLINERA BORJA, S.A DE C.V.",
     "cre_id": "PL/8692/EXP/ES/2015",
     "direccion": "Calle Rodolfo Felix Valdez No. 302 Poniente",
     "lng": -109.9455,
@@ -60526,14 +60334,6 @@
     "lng": -113.3879,
     "lat": 27.65143,
     "match_id": 9466
-  },
-  {
-    "nombre": "GASOLINERA BOQUILLA SA DE CV",
-    "cre_id": "PL/6971/EXP/ES/2015",
-    "direccion": "Agustin Melgar No. 903",
-    "lng": -105.173,
-    "lat": 27.67732,
-    "match_id": 8457
   },
   {
     "nombre": "SERVICIOS GASOLINEROS DE MEXICO, S.A. DE C.V.",
@@ -62104,14 +61904,6 @@
     "match_id": 5622
   },
   {
-    "nombre": "PRONTOGAS, S.A. DE C.V.",
-    "cre_id": "PL/4055/EXP/ES/2015",
-    "direccion": "Periférico de La Juventud No. 7929",
-    "lng": -106.1348,
-    "lat": 28.67361,
-    "match_id": 6669
-  },
-  {
     "nombre": "PETTOEXACTO SA DE CV",
     "cre_id": "PL/3813/EXP/ES/2015",
     "direccion": "Ignacio Vallarta No. 6113",
@@ -62294,14 +62086,6 @@
     "lng": -100.5448,
     "lat": 28.70405,
     "match_id": 2126
-  },
-  {
-    "nombre": "SERVICIOS GASOLINEROS DE MEXICO, S.A. DE C.V.",
-    "cre_id": "PL/9774/EXP/ES/2015",
-    "direccion": "Bodegas Marcadas Con No. 1234 Avenida Homero 3101",
-    "lng": -106.105,
-    "lat": 28.71295,
-    "match_id": 10430
   },
   {
     "nombre": "ORBA GAS SA DE CV",
@@ -67262,14 +67046,6 @@
     "lng": -116.8549,
     "lat": 32.47547,
     "match_id": 2916
-  },
-  {
-    "nombre": "JESUS HUMBERTO FLORES GUERRA",
-    "cre_id": "PL/6484/EXP/ES/2015",
-    "direccion": "Avenida Álvaro Obregón No. 1600",
-    "lng": -114.7623,
-    "lat": 32.47799,
-    "match_id": 7822
   },
   {
     "nombre": "GONZALO DE LA VEGA HERNANDEZ",
