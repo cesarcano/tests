@@ -31390,5 +31390,1598 @@
     "lng": -114.76451,
     "nombre": "JESUS HUMBERTO FLORES GUERRA",
     "cre_id": "PL/6484/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230695946,
+    "direccion": "Periférico Sur Poniente No. 36",
+    "lat": 16.7213,
+    "lng": -92.65286,
+    "nombre": "MARIO ASUNCION AGUILAR MORENO",
+    "cre_id": "PL/19749/EXP/ES/2016"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230695972,
+    "direccion": "Carretera Cayaco Puerto Marquez S/N",
+    "lat": 16.801718,
+    "lng": -99.82241,
+    "nombre": "Grupo Fortemexico, S.A. de C.V.",
+    "cre_id": "PL/5985/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230695992,
+    "direccion": "Avenida Cuauhtemoc Y Cerro Azul No. 109",
+    "lat": 16.864635,
+    "lng": -99.87893,
+    "nombre": "SERVICIO MAGALLANES, S.A. DE C.V.",
+    "cre_id": "PL/4337/EXP/ES/2015"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230696046,
+    "direccion": "Carretera Macuspana Cd. Pemex Esquina Miguel Hidalgo",
+    "lat": 17.873924,
+    "lng": -92.48655,
+    "nombre": "SERVICIO CIUDAD PEMEX SA DE CV",
+    "cre_id": "PL/3366/EXP/ES/2015"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230696047,
+    "direccion": "Carretera Estatal Villahermosa-Reforma Km 20+000",
+    "lat": 17.89936,
+    "lng": -93.057304,
+    "nombre": "SERVICIO REGIO SEIS, S.A. DE C.V.",
+    "cre_id": "PL/20195/EXP/ES/2017"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230696070,
+    "direccion": "Avenida Prof Ramon Mendoza Herrera No. 223 Esquina Paseo de Las Flores",
+    "lat": 18.009394,
+    "lng": -92.919136,
+    "nombre": "OPERADORA Y COMERCIALIZADORA DEL ITSMO, S.A.DE C.V",
+    "cre_id": "PL/5569/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696086,
+    "direccion": "Mariano Matamoros No. 1127",
+    "lat": 18.14407,
+    "lng": -94.42782,
+    "nombre": "GASOLINERA TRANSISTMICA SA DE CV",
+    "cre_id": "PL/10959/EXP/ES/2015"
+  },
+  {
+    "marca": "ORSAN",
+    "actualizacion": 1545230696088,
+    "direccion": "Juárez S/N Esquina Abasolo",
+    "lat": 18.138927,
+    "lng": -94.43434,
+    "nombre": "ESTACIONES DE SERVICIO AUTO S.A. DE C.V.",
+    "cre_id": "PL/2763/EXP/ES/2015"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230696089,
+    "direccion": "Carretera Samaria-Amatitan Km 9+765 Tramo Cunduacan-Jalpa de Mendez",
+    "lat": 18.149067,
+    "lng": -93.10667,
+    "nombre": "INMOBILIARIA EL CARMELO SA DE CV",
+    "cre_id": "PL/4271/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696126,
+    "direccion": "Avenida de Los Plateros No. 130",
+    "lat": 18.568405,
+    "lng": -99.603455,
+    "nombre": "Servicios Mexicanos de Turismo, S.A.",
+    "cre_id": "PL/3594/EXP/ES/2015"
+  },
+  {
+    "marca": "BP",
+    "actualizacion": 1545230696164,
+    "direccion": "Boulevard Carretera Cordoba Potrero No. 29",
+    "lat": 18.873177,
+    "lng": -96.86806,
+    "nombre": "AUTOSERVICIO PARAJE, SA DE CV",
+    "cre_id": "PL/19621/EXP/ES/2016"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696170,
+    "direccion": "Avenida Independencia No. 2114",
+    "lat": 18.89834,
+    "lng": -98.43322,
+    "nombre": "ZOHAN GAS, S. DE R.L. DE C.V.",
+    "cre_id": "PL/13595/EXP/ES/2016"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696180,
+    "direccion": "Prolongación Sebastian Lerdo de Tejada S/N",
+    "lat": 18.928513,
+    "lng": -99.7688,
+    "nombre": "JOSE ADRIAN MENDEZ VAZQUEZ",
+    "cre_id": "PL/8474/EXP/ES/2015"
+  },
+  {
+    "marca": "BP",
+    "actualizacion": 1545230696185,
+    "direccion": "Boulevard Atlixco 2808",
+    "lat": 18.936049,
+    "lng": -98.40535,
+    "nombre": "SERVICIO SAN AGOSTINO, S. DE R.L. DE C.V.",
+    "cre_id": "PL/19758/EXP/ES/2016"
+  },
+  {
+    "marca": "SUPERCARGA",
+    "actualizacion": 1545230696205,
+    "direccion": "Prolongación 11 Sur No. 5324",
+    "lat": 19.022112,
+    "lng": -98.22686,
+    "nombre": "GASOLINERA LA ONCE SA DE CV",
+    "cre_id": "PL/3057/EXP/ES/2015"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230696209,
+    "direccion": "Avenida 25 Poniente No. 712",
+    "lat": 19.046045,
+    "lng": -98.20956,
+    "nombre": "SINERGIA DE ENERGETICOS S.A. DE C.V.",
+    "cre_id": "PL/2806/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696227,
+    "direccion": "Avenida Prolongación Reforma No. 6106",
+    "lat": 19.073956,
+    "lng": -98.23904,
+    "nombre": "JOSE ARTURO MANUEL VELAZQUEZ Y PONCE DE LEON",
+    "cre_id": "PL/6917/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696228,
+    "direccion": "Bulevard 18 de Noviembre No. 1037",
+    "lat": 19.07458,
+    "lng": -98.16069,
+    "nombre": "Hidrocarburos Alem, S.A. de C.V.",
+    "cre_id": "PL/5790/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696281,
+    "direccion": "Km 12 Carretera Huamantla-La Venta",
+    "lat": 19.217342,
+    "lng": -97.91415,
+    "nombre": "JOSE OSCAR CERVANTES LOPEZ",
+    "cre_id": "PL/5580/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696291,
+    "direccion": "Boulevard Camino Real Y Avenida San Fernando",
+    "lat": 19.249865,
+    "lng": -103.719025,
+    "nombre": "SERVICIO SOLORZANO,  S.A.",
+    "cre_id": "PL/2326/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696292,
+    "direccion": "Avenida Benito Juárez S/N Lt. Terreno Urbano Mz. 342",
+    "lat": 19.252256,
+    "lng": -103.74553,
+    "nombre": "GBJ DE COLIMA, S.A. DE C.V.",
+    "cre_id": "PL/12829/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696310,
+    "direccion": "Pino Suarez No. 1301",
+    "lat": 19.27884,
+    "lng": -99.6516,
+    "nombre": "SUPER SERVICIO TOLUCA SA DE CV",
+    "cre_id": "PL/1619/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230696311,
+    "direccion": "Avenida 5 de Mayo No. 800",
+    "lat": 19.272293,
+    "lng": -99.630844,
+    "nombre": "REYDA SERVICIOS S.A. DE C.V.",
+    "cre_id": "PL/5281/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696316,
+    "direccion": "Avenida 5 de Mayo No. 718",
+    "lat": 19.289854,
+    "lng": -99.647446,
+    "nombre": "ENERGETICOS ENCINOS, S.A. DE C.V.",
+    "cre_id": "PL/19946/EXP/ES/2017"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230696322,
+    "direccion": "CAMINO CENTRAL A TLANALAPAN #6",
+    "lat": 19.293692,
+    "lng": -98.44783,
+    "nombre": "SERVICIO Y CALIDAD OJO DE AGUA SA DE CV",
+    "cre_id": "PL/21180/EXP/ES/2018"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696324,
+    "direccion": "Avenida Prolongación Eje 10 Sur (Antes Concepción) Mz. 1 Lote 1 No. 49",
+    "lat": 19.289848,
+    "lng": -99.01558,
+    "nombre": "Servicio Nerin, S. A. de C. V.",
+    "cre_id": "PL/20032/EXP/ES/2017"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230696340,
+    "direccion": "Carretera Tlaxcala Ocotlán Y Calle Volcanes No. 20",
+    "lat": 19.317623,
+    "lng": -98.21551,
+    "nombre": "HIDROSINA PLUS, S.A.P.I. DE C.V.",
+    "cre_id": "PL/8285/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696348,
+    "direccion": "Tolentino No. 10",
+    "lat": 19.337822,
+    "lng": -99.06478,
+    "nombre": "SUPER SERVICIO DIAMANTE, SA DE CV",
+    "cre_id": "PL/1053/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696373,
+    "direccion": "Peten No. 228",
+    "lat": 19.397625,
+    "lng": -99.15064,
+    "nombre": "FRANCISCO PADILLA ORTIZ",
+    "cre_id": "PL/5883/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696377,
+    "direccion": "Xola No. 732",
+    "lat": 19.39716,
+    "lng": -99.16729,
+    "nombre": "LENIGAS, SA DE CV",
+    "cre_id": "PL/2789/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696392,
+    "direccion": "Juan Escutia No. 90",
+    "lat": 19.415556,
+    "lng": -99.16998,
+    "nombre": "GASOLINERÍA EL CAPITAN SA DE CV",
+    "cre_id": "PL/787/EXP/ES/2015"
+  },
+  {
+    "marca": "TOTAL",
+    "actualizacion": 1545230696401,
+    "direccion": "Rio Lerma No. 71 Esquina Rio Rhin",
+    "lat": 19.423328,
+    "lng": -99.162704,
+    "nombre": "NACIONAL DE COMBUSTIBLES Y LUBRICANTES S.A. DE C.V",
+    "cre_id": "PL/10160/EXP/ES/2015"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230696403,
+    "direccion": "Héroes de Nacozari No. 54",
+    "lat": 19.441679,
+    "lng": -99.12191,
+    "nombre": "FIGUER GAS SA DE CV",
+    "cre_id": "PL/1099/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696406,
+    "direccion": "Laguna de Terminos No. 516",
+    "lat": 19.434862,
+    "lng": -99.17183,
+    "nombre": "SERVICIO PATZCUARO, S.A. DE C.V.",
+    "cre_id": "PL/5658/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696412,
+    "direccion": "Avenida 16 de Septiembre No. 60",
+    "lat": 19.464699,
+    "lng": -99.21891,
+    "nombre": "Grupo Macruz, S.A. de C.V.",
+    "cre_id": "PL/1006/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696415,
+    "direccion": "Calle San Juan de Aragón No. 772",
+    "lat": 19.465042,
+    "lng": -99.08414,
+    "nombre": "MARIA ANA TATO DEZA",
+    "cre_id": "PL/3155/EXP/ES/2015"
+  },
+  {
+    "marca": "REPSOL",
+    "actualizacion": 1545230696421,
+    "direccion": "Hacienda de Presillas No. 200",
+    "lat": 19.486942,
+    "lng": -99.03712,
+    "nombre": "SERVICIO MAILU S.A. DE C.V.",
+    "cre_id": "PL/1881/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696422,
+    "direccion": "Avenida Lázaro Cárdenas No. 555",
+    "lat": 19.487614,
+    "lng": -99.15097,
+    "nombre": "Estación Terminal del Norte, S.A. de C.V.",
+    "cre_id": "PL/2017/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696433,
+    "direccion": "Avenida Central No. 218",
+    "lat": 19.521893,
+    "lng": -99.07495,
+    "nombre": "Estación de Servicio Hades, S.A. de C.V.",
+    "cre_id": "PL/6543/EXP/ES/2015"
+  },
+  {
+    "marca": "RUTA GASOLINERA",
+    "actualizacion": 1545230696438,
+    "direccion": "Avenida Santa Rosa No. 1",
+    "lat": 19.538544,
+    "lng": -99.18191,
+    "nombre": "SERVICIO CONDESA DE ZACATECAS, S.A. DE C.V.",
+    "cre_id": "PL/2309/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696443,
+    "direccion": "Via Gustavo Baz No. 4001",
+    "lat": 19.544622,
+    "lng": -99.211136,
+    "nombre": "GASOMER, S.A. DE C.V.",
+    "cre_id": "PL/6531/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696450,
+    "direccion": "Vía Morelos S/N",
+    "lat": 19.559532,
+    "lng": -99.04775,
+    "nombre": "Estación de Servicio Rancho Verde, S.A. de C.V.",
+    "cre_id": "PL/836/EXP/ES/2015"
+  },
+  {
+    "marca": "SHELL",
+    "actualizacion": 1545230696455,
+    "direccion": "Gustavo Baz No. 4883",
+    "lat": 19.588108,
+    "lng": -99.19421,
+    "nombre": "ESTACIÓN DE CARGA VÍA LÁCTEA, S.A. DE C.V.",
+    "cre_id": "PL/7519/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696458,
+    "direccion": "16 de Septiembre No 433",
+    "lat": 19.598879,
+    "lng": -102.47457,
+    "nombre": "VICTORIA MENDOZA BARRAGAN",
+    "cre_id": "PL/5362/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696465,
+    "direccion": "Carretera Libre México-Pachuca Esquina Circuito Metropolitano",
+    "lat": 19.611156,
+    "lng": -99.02026,
+    "nombre": "GASMERAZ, S.A. DE C.V.",
+    "cre_id": "PL/9544/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696472,
+    "direccion": "AVENIDA MEXIQUENSE NO.77, PARCELA 141 Z-1 P1/1",
+    "lat": 19.633469,
+    "lng": -99.033516,
+    "nombre": "ESTACIÓN DE SERVICIO EL TRIÁNGULO, S.A. DE C.V.",
+    "cre_id": "PL/21008/EXP/ES/2018"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696473,
+    "direccion": "Vía José López Portillo Km 26.50 S/N Esquina Canosas",
+    "lat": 19.635042,
+    "lng": -99.1144,
+    "nombre": "PETROMAX, S.A. DE C.V.",
+    "cre_id": "PL/553/EXP/ES/2015"
+  },
+  {
+    "marca": "SHELL",
+    "actualizacion": 1545230696485,
+    "direccion": "Avenida Toluca No. 13 Esquina Camino Alamitra Lt. B Mz. 18",
+    "lat": 19.664679,
+    "lng": -99.12888,
+    "nombre": "Servicio Calatrava, S.A. de C.V.",
+    "cre_id": "PL/629/EXP/ES/2015"
+  },
+  {
+    "marca": "BP",
+    "actualizacion": 1545230696492,
+    "direccion": "AV HUEHUETOCA S/N LOTE 5",
+    "lat": 19.684858,
+    "lng": -99.22038,
+    "nombre": "SUPER SERVICIO HUEHUETOCA, S.A. DE C.V.",
+    "cre_id": "PL/21617/EXP/ES/2018"
+  },
+  {
+    "marca": "LA GAS",
+    "actualizacion": 1545230696519,
+    "direccion": "Carretera Campeche - Champoton No. 81 Por Libramiento Carretero",
+    "lat": 19.791843,
+    "lng": -90.612755,
+    "nombre": "E.S.G.E.S. S.A DE C.V",
+    "cre_id": "PL/8413/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696519,
+    "direccion": "Carretera Zumpango - Los Reyes No. 120",
+    "lat": 19.794117,
+    "lng": -99.08214,
+    "nombre": "INMUEBLES VENTA DE CARPIO, S.A. DE C.V.",
+    "cre_id": "PL/2940/EXP/ES/2015"
+  },
+  {
+    "marca": "LA GAS",
+    "actualizacion": 1545230696527,
+    "direccion": "Avenida José López Portillo, número 309, entre privada Prolongación Pedro Moreno y Avenida Patricio Trueba",
+    "lat": 19.821337,
+    "lng": -90.52585,
+    "nombre": "Servicios Ecológicos Benito Juárez S.A. de C.V.",
+    "cre_id": "PL/21615/EXP/ES/2018"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230696544,
+    "direccion": "CARRETERA COPÁNDARO DE GALEANA-CHUCÁNDIRO # 398",
+    "lat": 19.892128,
+    "lng": -101.21472,
+    "nombre": "MULTISERVICIOS KUPANDA S.A. DE C.V.",
+    "cre_id": "PL/21449/EXP/ES/2018"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696565,
+    "direccion": "Boulevard Salida a Morelia No. 1328",
+    "lat": 20.00397,
+    "lng": -100.7303,
+    "nombre": "MULTISERVICIOS EL TORNERO, SA DE CV",
+    "cre_id": "PL/8001/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696571,
+    "direccion": "Carretera México-Pachuca Tramo San Antonio Km 80.93",
+    "lat": 20.04187,
+    "lng": -98.795235,
+    "nombre": "GAS EL DESMONTE S.A. DE C.V.",
+    "cre_id": "PL/10668/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696573,
+    "direccion": "Melchor Ocampo No. 103",
+    "lat": 20.058306,
+    "lng": -99.33467,
+    "nombre": "SERVICIO TODA, S.A. DE C.V.",
+    "cre_id": "PL/9371/EXP/ES/2015"
+  },
+  {
+    "marca": "BP",
+    "actualizacion": 1545230696581,
+    "direccion": "Carretera Jiltepec-Huichapan Km 26",
+    "lat": 20.083118,
+    "lng": -99.632286,
+    "nombre": "GRUPO TOREMEX, SA DE CV",
+    "cre_id": "PL/5210/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696598,
+    "direccion": "Carretera México Tuxpan Km 95+550",
+    "lat": 20.173405,
+    "lng": -98.059525,
+    "nombre": "LUNA GAS S.A. DE C.V.",
+    "cre_id": "PL/13599/EXP/ES/2016"
+  },
+  {
+    "marca": "RUTA GASOLINERA",
+    "actualizacion": 1545230696629,
+    "direccion": "Pedro María Anaya No. 56",
+    "lat": 20.369524,
+    "lng": -99.65198,
+    "nombre": "SERVICIOS HUICHAPAN, S.A. DE C.V. (ES00701)",
+    "cre_id": "PL/1038/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696635,
+    "direccion": "AV. UNIVERSIDAD 199-A",
+    "lat": 20.387976,
+    "lng": -99.949554,
+    "nombre": "GASOLINERAS DEL CENTRO S.A. DE C.V.",
+    "cre_id": "PL/21606/EXP/ES/2018"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696683,
+    "direccion": "Torres Landa Esquina 12 de Octubre S/N",
+    "lat": 20.531485,
+    "lng": -100.83623,
+    "nombre": "COMBU-EXPRESS, S.A. DE C.V.",
+    "cre_id": "PL/1264/EXP/ES/2015"
+  },
+  {
+    "marca": "COSTCO",
+    "actualizacion": 1545230696684,
+    "direccion": "Avenida Tecnológico No. 601",
+    "lat": 20.54417,
+    "lng": -100.82037,
+    "nombre": "COMBU-EXPRESS, S.A. DE C.V.",
+    "cre_id": "PL/1250/EXP/ES/2015"
+  },
+  {
+    "marca": "RUTA GASOLINERA",
+    "actualizacion": 1545230696716,
+    "direccion": "Avenida Circunvalación Sur No. 30",
+    "lat": 20.601114,
+    "lng": -100.38099,
+    "nombre": "SERVICIO PLAZA CIRCUNVALACION SA DE CV ES07533",
+    "cre_id": "PL/1484/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696719,
+    "direccion": "Avenida Universidad No. 160",
+    "lat": 20.60106,
+    "lng": -100.38114,
+    "nombre": "SUPER SERVICIO UNIVERSIDAD SA",
+    "cre_id": "PL/4165/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230696725,
+    "direccion": "Prolongación Boulevard Bernardo Quintana S/N",
+    "lat": 20.617897,
+    "lng": -100.45268,
+    "nombre": "SERVICIO PONIENTE SA DE CV  E.S. 11003",
+    "cre_id": "PL/5167/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230696736,
+    "direccion": "Carretera Irapuato-Abasolo No. 5811",
+    "lat": 20.6276,
+    "lng": -101.3938,
+    "nombre": "SERVIEXPRESS SANTA ANITA S.A. DE C.V.",
+    "cre_id": "PL/8067/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696744,
+    "direccion": "Avenida Rio Nilo No. 7435",
+    "lat": 20.646313,
+    "lng": -103.27305,
+    "nombre": "SERVICIO AUTOMOTRIZ JEMA,S.A.DE C.V.",
+    "cre_id": "PL/1795/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696751,
+    "direccion": "Lateral Camino a Mompani No. 2001",
+    "lat": 20.643068,
+    "lng": -100.4597,
+    "nombre": "Consorcio Integral Gasolinero SA de CV    E11598",
+    "cre_id": "PL/18906/EXP/ES/2016"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696759,
+    "direccion": "CAMINO A MOMPANI 2191",
+    "lat": 20.652613,
+    "lng": -100.47287,
+    "nombre": "GAS EXPRESS SAN MIGUEL",
+    "cre_id": "PL/20769/EXP/ES/2017"
+  },
+  {
+    "marca": "GASMEX",
+    "actualizacion": 1545230696767,
+    "direccion": "Avenida López Mateos Sur No. 839",
+    "lat": 20.660578,
+    "lng": -103.39628,
+    "nombre": "Elena Perez Bouquet",
+    "cre_id": "PL/11500/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230696772,
+    "direccion": "Avenida Federalismo No. 449",
+    "lat": 20.677073,
+    "lng": -103.35354,
+    "nombre": "ENERGETICOS PLUS SA DE CV",
+    "cre_id": "PL/6766/EXP/ES/2015"
+  },
+  {
+    "marca": "GASMEX",
+    "actualizacion": 1545230696784,
+    "direccion": "Avenida López Mateos Norte No. 760",
+    "lat": 20.684063,
+    "lng": -103.38116,
+    "nombre": "SERVICIO LOPEZ MATEOS SA DE CV",
+    "cre_id": "PL/3098/EXP/ES/2015"
+  },
+  {
+    "marca": "GASMART",
+    "actualizacion": 1545230696807,
+    "direccion": "Libramiento Nor Oriente No. 9617 Sección Ii Predio Rustico El Porvenir",
+    "lat": 20.72188,
+    "lng": -101.33809,
+    "nombre": "ESTACION DE SERVICIO LEON, S.DER.L. DE C.V.",
+    "cre_id": "PL/19942/EXP/ES/2017"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696817,
+    "direccion": "Libramiento a La Base Aerea Nos. 1064 Y 1084",
+    "lat": 20.760815,
+    "lng": -103.43997,
+    "nombre": "SERVICIO LA CORONELA S.A. DE C.V.",
+    "cre_id": "PL/4560/EXP/ES/2015"
+  },
+  {
+    "marca": "SMARTGAS",
+    "actualizacion": 1545230696819,
+    "direccion": "Boulevard Riviera Nayarit No. 2900",
+    "lat": 20.760796,
+    "lng": -105.3521,
+    "nombre": "GRUPO GASOLINERO SAMARA SA DE CV",
+    "cre_id": "PL/19352/EXP/ES/2016"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230696844,
+    "direccion": "Calle 61 X 38 Y 55 Diagonal No. 381",
+    "lat": 20.941738,
+    "lng": -89.57387,
+    "nombre": "SERVICOMBUSTIBLES KANASIN S.A. DE C.V.",
+    "cre_id": "PL/3363/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696850,
+    "direccion": "Calle 27 X 6-A Y 8 No. 584",
+    "lat": 20.956945,
+    "lng": -89.56856,
+    "nombre": "ESTACION DE SERVICIO SAN IDELFONSO S.A. DE C.V.",
+    "cre_id": "PL/7072/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230696861,
+    "direccion": "Juventino Rosas Km 5500 Guanajauto",
+    "lat": 20.981764,
+    "lng": -101.28311,
+    "nombre": "SERVICIO VEGUSA SA DE CV",
+    "cre_id": "PL/1813/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230696862,
+    "direccion": "Carretera Federal Merida Cancun Km 277",
+    "lat": 20.99428,
+    "lng": -87.187164,
+    "nombre": "SERVICIOS GASOLINEROS DE MEXICO, S.A. DE C.V.",
+    "cre_id": "PL/7469/EXP/ES/2015"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230696864,
+    "direccion": "Calle 15 No. 724 X 128",
+    "lat": 20.994871,
+    "lng": -89.671974,
+    "nombre": "COMBUSTIBLES DE YUCATAN, S.A. DE C.V.",
+    "cre_id": "PL/4022/EXP/ES/2015"
+  },
+  {
+    "marca": "FULLGAS",
+    "actualizacion": 1545230696868,
+    "direccion": "Calle 60 Mz. 134 Sección Catastral 14",
+    "lat": 21.00839,
+    "lng": -89.63154,
+    "nombre": "COMBUSTIBLES CHUBURNA, S.A. DE C.V.",
+    "cre_id": "PL/5186/EXP/ES/2015"
+  },
+  {
+    "marca": "LA GAS",
+    "actualizacion": 1545230696878,
+    "direccion": "51 X 53 DIAGONAL No. 640",
+    "lat": 21.034021,
+    "lng": -89.65586,
+    "nombre": "COMBUSTIBLES DE YUCATAN, S.A. DE C.V.",
+    "cre_id": "PL/20531/EXP/ES/2017"
+  },
+  {
+    "marca": "LA GAS",
+    "actualizacion": 1545230696879,
+    "direccion": "Calle 50 X 21 Y 23 No. 340",
+    "lat": 21.0407,
+    "lng": -89.631805,
+    "nombre": "Estación de Servicio Siderúrgica, S.A de C.V",
+    "cre_id": "PL/8930/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696890,
+    "direccion": "Boulevard Mariano Escobedo No. 3731",
+    "lat": 21.103617,
+    "lng": -101.64115,
+    "nombre": "GUILLERMO ENRIQUEZ MORENO",
+    "cre_id": "PL/3720/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230696895,
+    "direccion": "BLVD. VASCO DE QUIROGA 702",
+    "lat": 21.128454,
+    "lng": -101.645325,
+    "nombre": "SERVICIO CHOPA SA DE CV",
+    "cre_id": "PL/21129/EXP/ES/2018"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696895,
+    "direccion": "Boulevard Vicente Valtierra No. 4401",
+    "lat": 21.127539,
+    "lng": -101.64458,
+    "nombre": "ESTACION DE SERVICIO LEON, S.DER.L. DE C.V.",
+    "cre_id": "PL/878/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230696897,
+    "direccion": "Carretera Merida-Cancun Km 309",
+    "lat": 21.135172,
+    "lng": -86.90611,
+    "nombre": "SERVICIOS GASOLINEROS DE MEXICO, S.A. DE C.V.",
+    "cre_id": "PL/7470/EXP/ES/2015"
+  },
+  {
+    "marca": "LA GAS",
+    "actualizacion": 1545230696899,
+    "direccion": "Lt. 1 Super Mz. 51",
+    "lat": 21.14064,
+    "lng": -86.8558,
+    "nombre": "Servicio Acoro, S.A. de C.V.",
+    "cre_id": "PL/4043/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696900,
+    "direccion": "Avenida Kabah Sur Mz. 01 Lt. 04 Entre Circuito Vial Y Avenida Nichuponiente",
+    "lat": 21.14533,
+    "lng": -86.83726,
+    "nombre": "CARBURANTES DEL CARIBE SA DE CV",
+    "cre_id": "PL/3599/EXP/ES/2015"
+  },
+  {
+    "marca": "LA GAS",
+    "actualizacion": 1545230696902,
+    "direccion": "Avenida Nichupté Super Mz. 8 Mz. 1 Lt. 3-06",
+    "lat": 21.14392,
+    "lng": -86.82313,
+    "nombre": "Estación de Servicio Caribe Real, S.A. de C.V.",
+    "cre_id": "PL/4044/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696903,
+    "direccion": "Boulevard Paseo de Los Insurgentes No. 403",
+    "lat": 21.141232,
+    "lng": -101.70223,
+    "nombre": "ROBERTO PADILLA SALAZAR",
+    "cre_id": "PL/1814/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696908,
+    "direccion": "Avenida Chichen Itza Mz. 01 Lt. 101 Reg. 97 Zona Industrial Cancún",
+    "lat": 21.14502,
+    "lng": -86.86171,
+    "nombre": "SERVICIO MARITIMO CORAL S.A. DE C.V.",
+    "cre_id": "PL/1483/EXP/ES/2015"
+  },
+  {
+    "marca": "BP",
+    "actualizacion": 1545230696913,
+    "direccion": "Cerro Gordo No. 604",
+    "lat": 21.159342,
+    "lng": -101.709435,
+    "nombre": "MAYOMEX ARELI PETROLEUM S. DE R.L. DE C.V.",
+    "cre_id": "PL/2372/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696914,
+    "direccion": "Carretera Federal 3 Huastecas Km 26.750",
+    "lat": 21.174122,
+    "lng": -98.600975,
+    "nombre": "SERVICIOS SAN FELIPE ORIZATLAN, S.A. DE C.V.",
+    "cre_id": "PL/3433/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696920,
+    "direccion": "Carretera Fed. No. 200 Tepic-Puerto Vallarta Km 67+900 S/N",
+    "lat": 21.19652,
+    "lng": -105.09382,
+    "nombre": "grupo bazem s. a. de c. v.",
+    "cre_id": "PL/11372/EXP/ES/2015"
+  },
+  {
+    "marca": "NEXUM",
+    "actualizacion": 1545230696962,
+    "direccion": "Carretera Tuxpan-Tampico Km 126+532.8",
+    "lat": 21.685448,
+    "lng": -97.85377,
+    "nombre": "SERVICIO OZULUAMA, SA DE CV  E05019",
+    "cre_id": "PL/2948/EXP/ES/2015"
+  },
+  {
+    "marca": "NEXUM",
+    "actualizacion": 1545230696984,
+    "direccion": "Carretera Federal México - Laredo 5216",
+    "lat": 21.937883,
+    "lng": -98.9788,
+    "nombre": "SERVICIO EL RETACHE, SA DE CV  E10393",
+    "cre_id": "PL/3547/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230696984,
+    "direccion": "Carretera Federal 70 Tramo San Luis-Rioverde",
+    "lat": 21.93292,
+    "lng": -100.02767,
+    "nombre": "PETRO DERIVADOS LOS BAMBUES, S.A DE C.V.",
+    "cre_id": "PL/10895/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697017,
+    "direccion": "Avenida Miguel Hidalgo No. 1217",
+    "lat": 22.22684,
+    "lng": -97.865135,
+    "nombre": "SERVICIO TAMPICO S.A. DE C.V.",
+    "cre_id": "PL/2958/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697025,
+    "direccion": "Avenida Hidalgo No. 2401",
+    "lat": 22.314882,
+    "lng": -97.8793,
+    "nombre": "DIVISORIA LAS TORRES SA DE CV",
+    "cre_id": "PL/5519/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697025,
+    "direccion": "Carretera Tampico-Mante Km 11.5 No. 409",
+    "lat": 22.329159,
+    "lng": -97.87445,
+    "nombre": "JOSÉ LUIS RODRÍGUEZ BERLANGA",
+    "cre_id": "PL/9666/EXP/ES/2015"
+  },
+  {
+    "marca": "GRUPO ECO",
+    "actualizacion": 1545230697053,
+    "direccion": "Avenida Leona Vicario No. 1305",
+    "lat": 22.910826,
+    "lng": -109.92851,
+    "nombre": "ESTACIONES DE SERVICIO PENINSULARES S.A. DE C.V.",
+    "cre_id": "PL/1934/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697078,
+    "direccion": "Carretera Estatal Libre La Ribera-Cabo Pulmón Km 01 Margen Izquierdo No. 3",
+    "lat": 23.594381,
+    "lng": -109.59184,
+    "nombre": "ESTACIONES DE SERVICIO LA RIBERA, S.A DE C.V",
+    "cre_id": "PL/6599/EXP/ES/2015"
+  },
+  {
+    "marca": "GASORED",
+    "actualizacion": 1545230697083,
+    "direccion": "Las Americas No. 707",
+    "lat": 23.672869,
+    "lng": -100.63286,
+    "nombre": "COMBUSTIBLES Y SERVICIOS DE MATEHUALA SA DE CVF",
+    "cre_id": "PL/5068/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697097,
+    "direccion": "Carretera a Ceuta Km 3.3",
+    "lat": 23.920166,
+    "lng": -106.92905,
+    "nombre": "FARMING MULTISERVICIOS, S.A. DE C.V.",
+    "cre_id": "PL/8029/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697102,
+    "direccion": "Carretera Matamoros - Mazatlán Km 965",
+    "lat": 24.010464,
+    "lng": -104.69255,
+    "nombre": "servicio lomas de durango s de r l de c v",
+    "cre_id": "PL/10777/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697122,
+    "direccion": "Mariano Escobedo No. 304",
+    "lat": 24.527151,
+    "lng": -104.76942,
+    "nombre": "Super Servicio Canatlán S.A. de C.V.",
+    "cre_id": "PL/1082/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697124,
+    "direccion": "Carretera Estatal Culiacan-Costa Rica No. 1557 Poniente",
+    "lat": 24.589876,
+    "lng": -107.39975,
+    "nombre": "Servicio Escoserra Costa Rica S.A. de C.V.",
+    "cre_id": "PL/7906/EXP/ES/2015"
+  },
+  {
+    "marca": "GASMART",
+    "actualizacion": 1545230697131,
+    "direccion": "Boulevard Manuel J. Clouthier No. 3500 Poniente",
+    "lat": 24.768246,
+    "lng": -107.39786,
+    "nombre": "MARIA GRACIELA TIZOC RODRIGUEZ",
+    "cre_id": "PL/13110/EXP/ES/2016"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697131,
+    "direccion": "Avenida Lic. Benito Juárez No 346 Norte",
+    "lat": 24.76239,
+    "lng": -107.69846,
+    "nombre": "SERVICIO ALCANFORES, S.A. DE. C.V.",
+    "cre_id": "PL/6132/EXP/ES/2015"
+  },
+  {
+    "marca": "GASMART",
+    "actualizacion": 1545230697135,
+    "direccion": "Manuel J. Clouthier No. 2188 Sur",
+    "lat": 24.78825,
+    "lng": -107.41106,
+    "nombre": "EXPRESS OCRAMVI SA DE CV",
+    "cre_id": "PL/19740/EXP/ES/2016"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697139,
+    "direccion": "Calzada Heroico Colegio Militar Sur 591",
+    "lat": 24.793734,
+    "lng": -107.37489,
+    "nombre": "GASOLINERA RINDEMAS SA DE CV",
+    "cre_id": "PL/13068/EXP/ES/2016"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697152,
+    "direccion": "Carretera Victoria-Matamoros Km 175",
+    "lat": 24.863716,
+    "lng": -98.13974,
+    "nombre": "HUGO ALBERTO GALVAN GARCIA",
+    "cre_id": "PL/8884/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697170,
+    "direccion": "Carretera Nacional No. 103",
+    "lat": 25.41361,
+    "lng": -100.139725,
+    "nombre": "SERVICIOS GASOLINEROS DE MEXICO, S.A. DE C.V.",
+    "cre_id": "PL/7667/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697173,
+    "direccion": "Boulevard J. V. Sanchez Y Chihuahua",
+    "lat": 25.430897,
+    "lng": -100.99757,
+    "nombre": "SUPER SERVICIOS MATAMOROS  SA DE CV",
+    "cre_id": "PL/8777/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697174,
+    "direccion": "Avenida 16 de Septiembre Y Allende S/N",
+    "lat": 25.447584,
+    "lng": -102.17228,
+    "nombre": "HECTOR DIONICIO LARA RODRIGUEZ",
+    "cre_id": "PL/4011/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697177,
+    "direccion": "Periférico Luis Echeverría No. 2843",
+    "lat": 25.447336,
+    "lng": -100.98895,
+    "nombre": "PETROMAX, S.A. DE C.V.",
+    "cre_id": "PL/612/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697179,
+    "direccion": "Carretera Nacional Km 253",
+    "lat": 25.460915,
+    "lng": -100.170494,
+    "nombre": "SERVICIOS GASOLINEROS DE MEXICO, S.A. DE C.V.",
+    "cre_id": "PL/2079/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697181,
+    "direccion": "BLVD. NAZARIO ORTIZ GARZA # 3978",
+    "lat": 25.472622,
+    "lng": -100.97656,
+    "nombre": "MULTISERVICIO LA ESPERANZA SA DE CV",
+    "cre_id": "PL/21612/EXP/ES/2018"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697222,
+    "direccion": "Avenida Coahuila 101",
+    "lat": 25.651861,
+    "lng": -100.15993,
+    "nombre": "SERVICIOS GASOLINEROS DE MEXICO, S.A. DE C.V.",
+    "cre_id": "PL/19147/EXP/ES/2016"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697223,
+    "direccion": "Carretera 120 Entre Cipres Y Eucalipto No. 695",
+    "lat": 25.65157,
+    "lng": -97.81623,
+    "nombre": "JESUS HERMILO SAENZ DE LA GARZA",
+    "cre_id": "PL/11011/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697227,
+    "direccion": "Avenida Hidalgo No. 1003 Poniente",
+    "lat": 25.670225,
+    "lng": -100.33591,
+    "nombre": "VALORES ENERGETICOS COMERCIALES Y DE SERVICIOS SA",
+    "cre_id": "PL/6972/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697228,
+    "direccion": "Avenida Benito Juárez No. 103",
+    "lat": 25.674034,
+    "lng": -100.191086,
+    "nombre": "SERVICIO EXPRESS LERMA, S. A. DE C. V.",
+    "cre_id": "PL/7937/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697229,
+    "direccion": "Avenida San Jeronimo No. 1001",
+    "lat": 25.674768,
+    "lng": -100.35766,
+    "nombre": "SERVICIOS GASOLINEROS DE MEXICO, S.A. DE C.V.",
+    "cre_id": "PL/7157/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697232,
+    "direccion": "Avenida Francisco I. Madero No. 768",
+    "lat": 25.683353,
+    "lng": -100.31256,
+    "nombre": "GASOLINERA SERVICIO GARCIA, S.A. DE C.V.",
+    "cre_id": "PL/3396/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697233,
+    "direccion": "Avenida Industrias del Poniente 1598-1",
+    "lat": 25.682978,
+    "lng": -100.48524,
+    "nombre": "VICTOR MANUEL DE ANDA URIBE",
+    "cre_id": "PL/8363/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697237,
+    "direccion": "Carretera Monterrey -Saltillo No. 3937 Km 63 Carril Norte",
+    "lat": 25.690565,
+    "lng": -100.50221,
+    "nombre": "PETROMAX, S.A. DE C.V.",
+    "cre_id": "PL/588/EXP/ES/2015"
+  },
+  {
+    "marca": "ORSAN",
+    "actualizacion": 1545230697240,
+    "direccion": "Ruiz Cortinez 2301",
+    "lat": 25.703403,
+    "lng": -100.279655,
+    "nombre": "Grupo Gasolinero el Milagro SA de CV",
+    "cre_id": "PL/12702/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697246,
+    "direccion": "Avenida Rodrigo Gomez No. S/N",
+    "lat": 25.716913,
+    "lng": -100.342285,
+    "nombre": "GAS HUINALA, S.A. DE C.V.",
+    "cre_id": "PL/4294/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697247,
+    "direccion": "Carretera Huinala-Villa Juárez No. 300",
+    "lat": 25.71416,
+    "lng": -100.137955,
+    "nombre": "SERVICIOS GASOLINEROS DE MEXICO, S.A. DE C.V.",
+    "cre_id": "PL/8444/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697251,
+    "direccion": "Avenida Adolfo López Mateos S/N",
+    "lat": 25.74002,
+    "lng": -100.23901,
+    "nombre": "PETROMAX, S.A. DE C.V.",
+    "cre_id": "PL/462/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697254,
+    "direccion": "Carretera Camino a Huinala No. 100",
+    "lat": 25.746841,
+    "lng": -100.19186,
+    "nombre": "Estacion Plaza Huinala SA de CV",
+    "cre_id": "PL/8364/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697257,
+    "direccion": "Lic. Arturo B. de La Garza Norte No. 102",
+    "lat": 25.749445,
+    "lng": -100.27917,
+    "nombre": "PRISCILIANO FELIX VILLARREAL CANTU",
+    "cre_id": "PL/3367/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697260,
+    "direccion": "Avenida Ruíz Cortines No. 9000 Y 9000-1",
+    "lat": 25.768377,
+    "lng": -100.415115,
+    "nombre": "PETROMAX, S.A. DE C.V.",
+    "cre_id": "PL/469/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697280,
+    "direccion": "Carretera a Apodaca - Laredo S/N",
+    "lat": 25.814798,
+    "lng": -100.2172,
+    "nombre": "SERVICIO CESAR IVAN, S.A. DE C.V.",
+    "cre_id": "PL/2395/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697291,
+    "direccion": "Carretera Sendero Nacional Km 6.5",
+    "lat": 25.86591,
+    "lng": -97.57241,
+    "nombre": "ESTACION DE SERVICIO SIGMA SA DE CV",
+    "cre_id": "PL/5627/EXP/ES/2015"
+  },
+  {
+    "marca": "NEXUM",
+    "actualizacion": 1545230697293,
+    "direccion": "Calle 6 No. 121",
+    "lat": 25.87213,
+    "lng": -97.499695,
+    "nombre": "VICTOR MANUEL SALINAS GUEDEA",
+    "cre_id": "PL/8381/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697299,
+    "direccion": "Carretera Monterrey - Monclova Km 25",
+    "lat": 25.974642,
+    "lng": -100.44247,
+    "nombre": "SUPER SERVICIO LA GLORIA S.A.",
+    "cre_id": "PL/2486/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697305,
+    "direccion": "Carretera Reynosa-Matamoros Km 81 Tramo Reynosa-R.Bravo",
+    "lat": 26.013895,
+    "lng": -98.20425,
+    "nombre": "EMPRESAS LUEBBERT SA DE CV",
+    "cre_id": "PL/11515/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697306,
+    "direccion": "Reynosa-San Fernando No. 401 Entronque Matamoros",
+    "lat": 26.038263,
+    "lng": -98.28171,
+    "nombre": "SERVICIOS PERA SA DE CV",
+    "cre_id": "PL/12616/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230697317,
+    "direccion": "Boulevard Miguel Hidalgo No. 2053",
+    "lat": 26.076052,
+    "lng": -98.31553,
+    "nombre": "GASOLINERA HIDALGO S DE CV",
+    "cre_id": "PL/11485/EXP/ES/2015"
+  },
+  {
+    "marca": "HIDROSINA",
+    "actualizacion": 1545230697318,
+    "direccion": "Boulevard Miguel Hidalgo S/N",
+    "lat": 26.086235,
+    "lng": -98.30163,
+    "nombre": "PETRO G SA DE CV",
+    "cre_id": "PL/5173/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697332,
+    "direccion": "Avenida Constitución Y Calle Allende S/N",
+    "lat": 26.82416,
+    "lng": -109.6378,
+    "nombre": "SERVICIO QUIJADA, S.A. DE C.V.",
+    "cre_id": "PL/3994/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697332,
+    "direccion": "Boulevard Gustavo Galaz No. 1445",
+    "lat": 26.838865,
+    "lng": -101.42403,
+    "nombre": "PARADERO STA MARIA  S.A. DE C.V.",
+    "cre_id": "PL/10646/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697336,
+    "direccion": "Boulevard San José No. 419",
+    "lat": 26.907328,
+    "lng": -101.418846,
+    "nombre": "COMBUSTIBLES Y LUBRICANTES NUEVA ALMADEN, S.A. DE",
+    "cre_id": "PL/10889/EXP/ES/2015"
+  },
+  {
+    "marca": "GASMART",
+    "actualizacion": 1545230697353,
+    "direccion": "Carretera Internacional Tramo Los Mochis Cd. Obregón Km 197.00",
+    "lat": 27.335266,
+    "lng": -109.74178,
+    "nombre": "SUPER SERVICIO DEL VALLE RIYE, S.A. DE C.V.",
+    "cre_id": "PL/4094/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697354,
+    "direccion": "Carretera Nacional México-Laredo No. 1550 Sur",
+    "lat": 27.406616,
+    "lng": -99.54102,
+    "nombre": "ASTROGAS SA DE CV",
+    "cre_id": "PL/3977/EXP/ES/2015"
+  },
+  {
+    "marca": "RENDICHICAS",
+    "actualizacion": 1545230697363,
+    "direccion": "Calle Jesús García No. 609 Poniente",
+    "lat": 27.478163,
+    "lng": -109.94051,
+    "nombre": "SERVICIOS CALIFORNIA DE CAJEME SA DE CV",
+    "cre_id": "PL/7001/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697365,
+    "direccion": "Pino Suarez No. 5451",
+    "lat": 27.495567,
+    "lng": -99.540115,
+    "nombre": "ESTACION DE SERVICIO NUEVO RUMBO SA DE CV",
+    "cre_id": "PL/2619/EXP/ES/2015"
+  },
+  {
+    "marca": "OXXO GAS",
+    "actualizacion": 1545230697371,
+    "direccion": "Prolongación Avenida Benito Juárez No. 1",
+    "lat": 27.692137,
+    "lng": -105.17269,
+    "nombre": "V-RED SA DE CV",
+    "cre_id": "PL/18952/EXP/ES/2016"
+  },
+  {
+    "marca": "G500",
+    "actualizacion": 1545230697391,
+    "direccion": "Avenida Hidalgo y calle 15 No. 1380",
+    "lat": 28.413666,
+    "lng": -106.86891,
+    "nombre": "GASOLINERA BOQUILLA SA DE CV",
+    "cre_id": "PL/20538/EXP/ES/2017"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697391,
+    "direccion": "Avenida Morelos No. 5980",
+    "lat": 28.425032,
+    "lng": -106.8421,
+    "nombre": "SERVICIO MERAZ, S.A. DE C.V.",
+    "cre_id": "PL/3250/EXP/ES/2015"
+  },
+  {
+    "marca": "RENDICHICAS",
+    "actualizacion": 1545230697396,
+    "direccion": "Nueva España No. 605",
+    "lat": 28.617962,
+    "lng": -106.03165,
+    "nombre": "SERVICIO MERAZ, S.A. DE C.V.",
+    "cre_id": "PL/3360/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697400,
+    "direccion": "Boulevard Venustiano Carranza No. 2569",
+    "lat": 28.654009,
+    "lng": -100.535286,
+    "nombre": "SERVICIO OBISPADO S.A DE C.V.",
+    "cre_id": "PL/6077/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697403,
+    "direccion": "Boulevard República No. 200",
+    "lat": 28.69528,
+    "lng": -100.56273,
+    "nombre": "SUPER GAS PIEDRAS, SA DE CV",
+    "cre_id": "PL/810/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697407,
+    "direccion": "Avenida Los Nogales Esquina Alfonso Sosa Vera No. 1101",
+    "lat": 28.732416,
+    "lng": -106.12155,
+    "nombre": "SERVICIO CHIHUAHUA 2000 SA DE CV",
+    "cre_id": "PL/3824/EXP/ES/2015"
+  },
+  {
+    "marca": "RENDICHICAS",
+    "actualizacion": 1545230697412,
+    "direccion": "Xolotl No. 244",
+    "lat": 29.017033,
+    "lng": -110.94934,
+    "nombre": "ESTACION DE SERVICIO ALTARES  S.A DE C.V",
+    "cre_id": "PL/10366/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697418,
+    "direccion": "Boulevard Rodriguez Y Calle Everardo Monroy",
+    "lat": 29.082293,
+    "lng": -110.952415,
+    "nombre": "SERVICIO DE ANZA SA DE CV",
+    "cre_id": "PL/6639/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697427,
+    "direccion": "Boulevard Progreso No. 72 Poniente",
+    "lat": 29.148184,
+    "lng": -111.00644,
+    "nombre": "AUTO SERVICIO SACRAMENTO SA DE CV",
+    "cre_id": "PL/11345/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697447,
+    "direccion": "Lamberto Hernandez Y Avenida Luis Donaldo Colosio No. 280",
+    "lat": 30.719887,
+    "lng": -112.16425,
+    "nombre": "Servicio Garal S de RL de CV",
+    "cre_id": "PL/5673/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697457,
+    "direccion": "Boulevard Benito Juárez Y Calle Primera No. 99",
+    "lat": 31.3058,
+    "lng": -113.53375,
+    "nombre": "OPERADORA RIO COLORADO S. DE R.L. DE C.V.",
+    "cre_id": "PL/4407/EXP/ES/2015"
+  },
+  {
+    "marca": "GRUPO ECO",
+    "actualizacion": 1545230697457,
+    "direccion": "Avenida Álvaro Obregón No. 805",
+    "lat": 31.312078,
+    "lng": -110.9449,
+    "nombre": "NOGALES ENERGETICOS S.A. DE C.V.",
+    "cre_id": "PL/10120/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697481,
+    "direccion": "Avenida 16 de Septiembre No. 1981",
+    "lat": 31.744156,
+    "lng": -106.47331,
+    "nombre": "SUPER SERVICIO HERRERA DEL NORTE SA DE CV",
+    "cre_id": "PL/10733/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697481,
+    "direccion": "Calle Tlaxcala Y Panama S/N",
+    "lat": 31.744156,
+    "lng": -106.47331,
+    "nombre": "SERVICIO TLAXCALA SA DE CV",
+    "cre_id": "PL/4121/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697491,
+    "direccion": "Avenida Durango Y Sexta S/N",
+    "lat": 32.199142,
+    "lng": -114.99949,
+    "nombre": "REBECA JIMENEZ RUIZ",
+    "cre_id": "PL/9002/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697501,
+    "direccion": "Avenida Obregón Y Calle 30",
+    "lat": 32.46253,
+    "lng": -114.74199,
+    "nombre": "LUBRICANTES Y GASOLINAS S.A. DE C.V.",
+    "cre_id": "PL/3698/EXP/ES/2015"
+  },
+  {
+    "marca": "GASMART",
+    "actualizacion": 1545230697501,
+    "direccion": "Avenida Revolución Y Calle 26 No. 2508",
+    "lat": 32.46776,
+    "lng": -114.74593,
+    "nombre": "SOL DEL COLORADO S.A. DE C.V.",
+    "cre_id": "PL/5595/EXP/ES/2015"
+  },
+  {
+    "marca": "GASMART",
+    "actualizacion": 1545230697504,
+    "direccion": "Prolongación Díaz Ordaz No. 8520",
+    "lat": 32.48,
+    "lng": -116.9393,
+    "nombre": "AUTOSERVICIO BENITEZ, SA DE CV",
+    "cre_id": "PL/9533/EXP/ES/2015"
+  },
+  {
+    "marca": "SMARTGAS",
+    "actualizacion": 1545230697505,
+    "direccion": "Camino Guadalupe Victoria No. 22272",
+    "lat": 32.486576,
+    "lng": -116.88321,
+    "nombre": "AUTOSERVICIO BENITEZ, SA DE CV",
+    "cre_id": "PL/8689/EXP/ES/2015"
+  },
+  {
+    "marca": "RENDICHICAS",
+    "actualizacion": 1545230697506,
+    "direccion": "Boulevard General Ricardo Flores Magon No. 6621",
+    "lat": 32.486965,
+    "lng": -117.06172,
+    "nombre": "ALEROB ESTACIONES, S.A. DE C.V.",
+    "cre_id": "PL/10662/EXP/ES/2015"
+  },
+  {
+    "marca": "RENDICHICAS",
+    "actualizacion": 1545230697508,
+    "direccion": "Avenida Ruta Matamoros No. 10449",
+    "lat": 32.500786,
+    "lng": -116.8865,
+    "nombre": "Becktrop Operadora SA de CV",
+    "cre_id": "PL/1293/EXP/ES/2015"
+  },
+  {
+    "marca": "EL REY GASOLINERAS",
+    "actualizacion": 1545230697533,
+    "direccion": "Calzada Manuel Gomez Morin No. 1799",
+    "lat": 32.59855,
+    "lng": -115.461205,
+    "nombre": "ESTACION DE SERVICIOS EL CAPITAN, SA DE CV",
+    "cre_id": "PL/9433/EXP/ES/2015"
+  },
+  {
+    "marca": "PEMEX",
+    "actualizacion": 1545230697540,
+    "direccion": "Avenida José María Morelos Y Pavon S/N",
+    "lat": 32.63555,
+    "lng": -114.85038,
+    "nombre": "ENRIQUE ARTURO TORRES MANRIQUEZ",
+    "cre_id": "PL/3960/EXP/ES/2015"
+  },
+  {
+    "marca": "GRUPO ECO",
+    "actualizacion": 1545230697540,
+    "direccion": "Avenida José María Morelos Y Pavon No. 530",
+    "lat": 32.635967,
+    "lng": -114.85031,
+    "nombre": "RIGOBERTO MAGAÑA MAGAÑA",
+    "cre_id": "PL/8246/EXP/ES/2015"
+  },
+  {
+    "marca": "BP",
+    "actualizacion": 1545230697542,
+    "direccion": "Calzada Independencia Y Calle Alamo 884",
+    "lat": 32.637924,
+    "lng": -115.48563,
+    "nombre": "ADMINISTRADORA DEL COLORADO S. DE R.L. DE C.V.",
+    "cre_id": "PL/12798/EXP/ES/2015"
+  },
+  {
+    "marca": "SMARTGAS",
+    "actualizacion": 1545230697544,
+    "direccion": "Calle Rio Presidio No. 899",
+    "lat": 32.65708,
+    "lng": -115.42686,
+    "nombre": "AUTO SERVICIO SAN CARLOS S. DE R.L. DE C.V.",
+    "cre_id": "PL/4893/EXP/ES/2015"
+  },
+  {
+    "marca": "GASMART",
+    "actualizacion": 1545230697545,
+    "direccion": "Cl Cuauhtemoc No. 601",
+    "lat": 32.663208,
+    "lng": -115.4423,
+    "nombre": "JOSE ELIAS CANCHOLA SOTO",
+    "cre_id": "PL/4655/EXP/ES/2015"
   }
 ]
