@@ -14,6 +14,8 @@ var creArray = '';
  * 
  */
 const gasolinerasArray = ;
+
+
 var newGasArray = [];
 var newGasArrayErrorCre = []; 
 var newGasArrayErrorGas = [];
